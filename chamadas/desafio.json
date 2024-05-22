@@ -79,7 +79,7 @@
             "url": "http://localhost:8080/customer",
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"Cleyton Chagas\",\n  \"typeAccount\": \"PJ\",\n  \"cpfCnpj\": \"45154121451\",\n  \"address\": \"Barueri\",\n  \"password\": \"123456789\"\n}\n",
+              "raw": "{\n  \"name\": \"Tarcisio Bezerra\",\n  \"typeAccount\": \"PJ\",\n  \"cpfCnpj\": \"45154121451\",\n  \"address\": \"Barueri\",\n  \"password\": \"123456789\"\n}\n",
               "options": {
                 "raw": {
                   "language": "json"
@@ -97,7 +97,7 @@
             "url": "http://localhost:8080/customer",
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"Cleyton Chagas\",\n  \"typeAccount\": \"PF\",\n  \"cpfCnpj\": \"45154121451\",\n  \"address\": \"Barueri\",\n  \"password\": \"123456789\"\n}\n",
+              "raw": "{\n  \"name\": \"Tarcisio Bezerra\",\n  \"typeAccount\": \"PF\",\n  \"cpfCnpj\": \"45154121451\",\n  \"address\": \"Barueri\",\n  \"password\": \"123456789\"\n}\n",
               "options": {
                 "raw": {
                   "language": "json"
